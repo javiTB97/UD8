@@ -13,6 +13,7 @@ public class TestEquipo {
          boolean salir = false;
       Equipo e1 = new Equipo();
       Futbolista f1 = new Futbolista();
+      Futbolista f2 = new Futbolista();
       
      
       
@@ -97,6 +98,7 @@ public class TestEquipo {
     }
     
 }
+
 
 
 
