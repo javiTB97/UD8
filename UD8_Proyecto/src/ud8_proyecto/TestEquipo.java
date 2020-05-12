@@ -14,6 +14,7 @@ public class TestEquipo {
       Equipo e1 = new Equipo();
       Futbolista f1 = new Futbolista();
       Futbolista f2 = new Futbolista();
+      Futbolista f3 = new Futbolista(); /*Creado desde GitHub*/
       
      
       
